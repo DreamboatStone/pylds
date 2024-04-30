@@ -1,0 +1,5 @@
+numpy>=1.9.3
+scipy>=0.16
+matplotlib
+pybasicbayes
+autograd
